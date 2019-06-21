@@ -52,3 +52,6 @@ Don't worry, if you do not see the book you are searching for, you can search ag
 5.  Feelin' Lucky?  Give our random book generator a go!  This feature will pluck a random book from the google books database and give you the option to check it out if you'd like.  Feel free to mash this button as many times as you'd like.
 
 Last, but most importantly, HAVE FUN.  This app is meant to explore the plethora of literature available to us through the google books library.  Remember to check the page count though.  You wouldn't want to start off reading a 1,200 page book!  Start out wherever you feel comfortable and get reading!
+
+### Collaborator:
+[@stephenbrewer16](https://github.com/stephenbrewer16)
